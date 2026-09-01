@@ -4,12 +4,12 @@ Copy the template, paste it to your GitHub README and edit! -->
  
 # IA TO ME
 
-Final project for the Building AI course
+
 
 ## Summary
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+My project is about creating an AI companion that helps people expand their knowledge and understanding. It synthesizes information from the web, supports productivity tasks, and sparks engaging conversations, making learning both practical and enjoyable.
 
 ## Background
 
